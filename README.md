@@ -1,6 +1,6 @@
 # GestureMouse – Virtual Mouse Using Hand Gesture Recognition
 
-![App Screenshot](https://github.com/ansarkp10/Food_Image_Recipe_Recommendation_System_ML/blob/main/fd_UserUI.png)
+![App Screenshot]([https://github.com/ansarkp10/Food_Image_Recipe_Recommendation_System_ML/blob/main/fd_UserUI.png](https://github.com/ansarkp10/Virtual-mouse-using-hand-gesture-recognition/blob/main/USER_UI.png))
 
 **📌 Project Overview**
 
